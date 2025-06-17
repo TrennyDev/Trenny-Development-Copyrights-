@@ -12,9 +12,7 @@ This includes:
 - Written texts including rules, welcome messages, and product descriptions
 - Embedded systems used within Discord or on websites
 - Anything which has been created by `Trenny Developement`
-
-
-This includes the private code properties with pre-copyrighted text as '© Trenny Development, 2025. All Rights Reserved'. 
+- The private code properties with pre-copyrighted text as '© Trenny Development, 2025. All Rights Reserved'. 
 
 For usage rights or licensing, contact the Trenny Development team.
 
